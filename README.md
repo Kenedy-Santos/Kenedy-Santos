@@ -22,7 +22,7 @@ Criar soluções inovadoras que combinem tecnologia e criatividade, ajudando emp
 ---
 
 ## 📫 Contato
-- **E-mail profissional**: [contato@kenedydev.com.br](mailto:contato@kenedydev.com.br)
+- **E-mail profissional**: [contato@kenedydev.com.br](mailto:patrik@kenedydev.com.br)
 - **LinkedIn**: [linkedin.com/in/kenedy](https://www.linkedin.com/in/patrik-kenedy-b18b48225/)
 - **Portfólio**: [kenedydev.com.br](http://kenedydev.com.br)
 
