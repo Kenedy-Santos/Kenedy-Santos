@@ -1,29 +1,52 @@
-# 👋 Olá, eu sou Patrik Kenedy! 🚀
+# 👋 Hey, eu sou o **Patrik Kenedy!** 🚀  
+![Status](https://img.shields.io/badge/Status-Criando_inovações-blue?style=flat-square)  
+![GitHub followers](https://img.shields.io/github/followers/kenedydev?style=social)  
+![Languages](https://img.shields.io/github/languages/count/kenedydev?style=flat-square)
 
-Sou **Programador Front-End** com sólida experiência em criar interfaces modernas e responsivas que proporcionam uma experiência incrível ao usuário. Também possuo conhecimentos em **suporte técnico**, o que me ajuda a identificar e solucionar problemas com eficiência.
-
-🌟 **Minhas especialidades incluem:**
-- Desenvolvimento Front-End com **HTML, CSS, JavaScript** e frameworks como **React.js** e **Bootstrap**.
-- Design focado em **UX/UI**, garantindo usabilidade e estética.
-- Suporte técnico para identificação e solução de problemas em sistemas e infraestrutura.
-- Integração de APIs para aplicações dinâmicas e interativas.
-- Gerenciamento de versionamento com **Git** e colaboração em equipes ágeis.
-
-🎯 **Meu objetivo é:**
-Criar soluções inovadoras que combinem tecnologia e criatividade, ajudando empresas a alcançarem seus objetivos de forma eficiente e escalável.
+Sou um **Programador Front-End** apaixonado por tecnologia e inovação! Meu foco está em criar interfaces incríveis e funcionais, que unem criatividade e desempenho. Com conhecimentos sólidos em **suporte técnico**, também ofereço soluções completas e práticas para problemas técnicos.
 
 ---
 
-## 🌐 Projetos em destaque:
-- **[Site para Imobiliária](#)**: Criação e manutenção contínua, incluindo otimizações e atualizações frequentes.
-- **[Calculadora Científica](#)**: Um projeto open-source que desenvolvi com Python, mostrando habilidades em lógica e funcionalidade.
-- **[Meu Portfólio Online](#)**: Um espaço onde você pode explorar todos os meus projetos e ver o que sou capaz de criar.
+## 🛠️ **Tecnologias & Ferramentas**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
 
-## 📫 Contato
-- **E-mail profissional**: [contato@kenedydev.com.br](mailto:contato@kenedydev.com.br)
-- **LinkedIn**: [linkedin.com/in/kenedy](https://www.linkedin.com/in/kenedy)
-- **Portfólio**: [kenedydev.com.br](http://kenedydev.com.br)
+## 🚀 **O que eu faço:**  
+- 🎨 **Design de interfaces UX/UI**: Combino estética com usabilidade.  
+- 💻 **Desenvolvimento Front-End**: Criação de sites modernos e responsivos.  
+- 🛠️ **Suporte técnico**: Resolvo problemas e otimizo sistemas.  
 
-Vamos construir algo incrível juntos? ✨
+---
+
+## 💡 **Projetos Recentes**
+🎯 **[Site para Imobiliária](#)**  
+_Projeto full-stack com foco em SEO, interatividade e performance._
+
+🖩 **[Calculadora Científica](#)**  
+_Ferramenta open-source desenvolvida em Python, com funcionalidades avançadas._  
+
+🌟 **[Meu Portfólio](http://kenedydev.com.br)**  
+_Um espaço para explorar minhas criações e habilidades._
+
+---
+
+## 📊 **Estatísticas do GitHub**  
+![Kenedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenedydev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenedydev&layout=compact&theme=radical)
+
+---
+
+## 📫 **Como me encontrar**  
+📧 **E-mail profissional**: [contato@kenedydev.com.br](mailto:contato@kenedydev.com.br)  
+🌐 **Portfólio**: [kenedydev.com.br](http://kenedydev.com.br)  
+💼 **LinkedIn**: [linkedin.com/in/kenedy](https://www.linkedin.com/in/kenedy)  
+
+💬 **Vamos conversar e criar algo incrível juntos!**  
+
