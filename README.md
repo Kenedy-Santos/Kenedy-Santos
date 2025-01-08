@@ -1,52 +1,55 @@
-# 👋 Hey, eu sou o **Patrik Kenedy!** 🚀  
-![Status](https://img.shields.io/badge/Status-Criando_inovações-blue?style=flat-square)  
-![GitHub followers](https://img.shields.io/github/followers/kenedydev?style=social)  
-![Languages](https://img.shields.io/github/languages/count/kenedydev?style=flat-square)
+# 💻 Patrik Kenedy | Programador Front-End & Suporte Técnico  
 
-Sou um **Programador Front-End** apaixonado por tecnologia e inovação! Meu foco está em criar interfaces incríveis e funcionais, que unem criatividade e desempenho. Com conhecimentos sólidos em **suporte técnico**, também ofereço soluções completas e práticas para problemas técnicos.
+**Transformando ideias em soluções digitais que fazem a diferença!**  
 
----
-
-## 🛠️ **Tecnologias & Ferramentas**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+Bem-vindo ao meu perfil! Sou um **Programador Front-End** especializado em criar interfaces responsivas e dinâmicas, aliando design inovador a uma experiência do usuário (UX/UI) impecável. Minha formação em **Análise e Desenvolvimento de Sistemas** e minha pós-graduação em **Ciência de Dados** complementam minha capacidade de entregar soluções completas e otimizadas.
 
 ---
 
-## 🚀 **O que eu faço:**  
-- 🎨 **Design de interfaces UX/UI**: Combino estética com usabilidade.  
-- 💻 **Desenvolvimento Front-End**: Criação de sites modernos e responsivos.  
-- 🛠️ **Suporte técnico**: Resolvo problemas e otimizo sistemas.  
+## 🚀 **Principais Habilidades**  
+- 🌐 **Desenvolvimento Front-End**: HTML5, CSS3, JavaScript, React.js, Bootstrap.  
+- 🎨 **Design UX/UI**: Foco em interfaces funcionais e acessíveis.  
+- 🔧 **Suporte Técnico**: Diagnóstico e resolução de problemas em sistemas e infraestrutura.  
+- 📊 **Manipulação de Dados**: Conhecimento em SQL e análise de dados.  
+- 📁 **Ferramentas**: Git, VS Code, APIs RESTful.  
 
 ---
 
-## 💡 **Projetos Recentes**
-🎯 **[Site para Imobiliária](#)**  
-_Projeto full-stack com foco em SEO, interatividade e performance._
+## 🏆 **O que me diferencia?**  
+- **👥 Orientação ao cliente**: Experiência direta com manutenção de sites de clientes, garantindo qualidade e entregas consistentes.  
+- **📈 Visão estratégica**: Conhecimento em Ciência de Dados para criar soluções baseadas em métricas e dados reais.  
+- **📚 Aprendizado contínuo**: Sempre atualizado com as mais recentes tecnologias e tendências do mercado.  
+
+---
+
+## 🌟 **Projetos em Destaque**  
+
+🔗 **[Portfólio Profissional](http://kenedydev.com.br)**  
+Meu espaço online para expor projetos, ideias e habilidades.  
+
+🏠 **[Site para Imobiliária](#)**  
+Desenvolvimento e manutenção contínua de um site otimizado para SEO e responsividade.  
 
 🖩 **[Calculadora Científica](#)**  
-_Ferramenta open-source desenvolvida em Python, com funcionalidades avançadas._  
+Projeto em Python, destacando lógica e funcionalidade.  
 
-🌟 **[Meu Portfólio](http://kenedydev.com.br)**  
-_Um espaço para explorar minhas criações e habilidades._
+🌍 **[GitHub Projects](https://github.com/kenedydev)**  
+Explore mais projetos que demonstram minha paixão por criar e inovar.  
 
 ---
 
 ## 📊 **Estatísticas do GitHub**  
-![Kenedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenedydev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenedydev&layout=compact&theme=radical)
+![Kenedy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenedydev&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenedydev&layout=compact&theme=github_dark)  
 
 ---
 
-## 📫 **Como me encontrar**  
-📧 **E-mail profissional**: [contato@kenedydev.com.br](mailto:contato@kenedydev.com.br)  
+## 📫 **Como entrar em contato**  
+📧 **E-mail**: [contato@kenedydev.com.br](mailto:contato@kenedydev.com.br)  
+🌐 **LinkedIn**: [linkedin.com/in/kenedy](https://www.linkedin.com/in/kenedy)  
 🌐 **Portfólio**: [kenedydev.com.br](http://kenedydev.com.br)  
-💼 **LinkedIn**: [linkedin.com/in/kenedy](https://www.linkedin.com/in/kenedy)  
 
-💬 **Vamos conversar e criar algo incrível juntos!**  
+---
 
+### 🎯 **Vamos construir algo incrível juntos!**  
+Se você está buscando um profissional dedicado, com olhar técnico e criativo para resolver desafios, vamos conversar!  
